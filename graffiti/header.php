@@ -11,9 +11,9 @@
         
         <ul>
            
-                <li class="logo"><h1><a href="index.php">GRAFFITI</a></h1></li>
+                <li class="logo"><h1><a href="index.php">GraPHIti</a></h1></li>
                 <li><a href="#"> ARTIST</a></li>
-                <li><a href="#"> CHARITY</a></li>
+                <li><a href="#">TAGS</a></li>
                 <li><a href="#"> ABOUT US</a></li>
                 <li><a href="#"> CONTACT</a></li>
         </ul>
