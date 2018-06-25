@@ -4,4 +4,51 @@ Author: Ken
 Version:1.0
 
 */
+body{
+    margin:0;
+    padding:0;
+    color:white;
+    font-family: 'Russo One', sans-serif;
+}
+.header{
+    background-color: black;
+    width:100%;
+    margin-top:-6%;
+    
+   
+}
 
+    
+.header ul li {
+    text-decoration: none;
+    display:inline-block;
+    margin-right:2%;
+ }
+.header ul li a{
+   text-decoration: none;
+   color:white;
+   /*text-shadow: 2px 3px rgb(143, 23, 23);*/
+}
+
+header ul li a:hover{
+    text-decoration: none;
+    color:rgb(143, 23, 23);
+     /*text-shadow: 2px 1px  white*/
+ }
+
+ .banner{
+     width:100%;
+     height:550px;
+     background-image: url(Screenshot.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin:-2% 0 0 0;
+ }
+ .header ul li h1 a{
+     color:white;
+     /*text-shadow: 2px 3px rgb(143, 23, 23);*/
+ }
+ .header ul li h1 a:hover{
+     color:rgb(143, 23, 23);
+     /*text-shadow: 2px 2px  white*/
+ }
